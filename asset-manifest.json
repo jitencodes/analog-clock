@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/analog-clock/static/css/main.780d74ce.css",
+    "main.js": "/analog-clock/static/js/main.9ac76de7.js",
+    "static/media/light-clock.png": "/analog-clock/static/media/light-clock.5698422115a4b5c99935.png",
+    "static/media/dark-clock.png": "/analog-clock/static/media/dark-clock.0f8967dc8cb5e62c645f.png",
+    "index.html": "/analog-clock/index.html",
+    "main.780d74ce.css.map": "/analog-clock/static/css/main.780d74ce.css.map",
+    "main.9ac76de7.js.map": "/analog-clock/static/js/main.9ac76de7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.780d74ce.css",
+    "static/js/main.9ac76de7.js"
+  ]
+}
