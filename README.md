@@ -1,4 +1,14 @@
-# Analog clock with dark mode built in react.
+# Analog clock build with react-js.
+Build in two different themes light and dark.
+Showing current time with javascript methods.
+
+Learn Javascript DOM manipution wihht this project.
+
+
+![image](https://user-images.githubusercontent.com/86045185/204079586-2b0d3378-eca4-4659-9fc4-944ec7ce255d.png)
+
+
+
 
 In the project directory, you can run:
     
